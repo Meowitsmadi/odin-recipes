@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
     background-color: rgb(225, 255, 249); 
+    font-family: sans-serif;
 }
 
 .easy,
@@ -17,8 +18,12 @@ h1 {
     background-color: rgb(249, 249, 138);
 }
 
-p {
+p.indicator {
     font-size: 14px;
     font-weight: bold;
     text-align: center;
+}
+
+ul.ingredients {
+    background-color:rgb(235, 232, 232);
 }
